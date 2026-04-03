@@ -1,0 +1,8 @@
+com/elearning/HelloController.class
+com/elearning/entity/Course.class
+com/elearning/service/CourseService.class
+TestController.class
+com/elearning/entity/User.class
+com/elearning/ElearningApplication.class
+com/elearning/controller/CourseController.class
+com/elearning/repository/CourseRepository.class
